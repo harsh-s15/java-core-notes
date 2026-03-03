@@ -9,6 +9,7 @@ abstract method : must be inside abstract class
 abstract methods cannot be implemented
 
 final + abstract : illegal combination
+private + abstract : illegal combination
 
 abstract class Animal {
 
